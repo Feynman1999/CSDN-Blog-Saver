@@ -17,7 +17,7 @@ pyOpenSSL==17.0.0
 pyparsing==2.2.0
 pypiwin32==223
 PySocks==1.6.6
-pywin32==224
+pywin32==301
 requests==2.14.2
 selenium==3.14.0
 six==1.10.0
